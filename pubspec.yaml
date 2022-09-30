@@ -1,0 +1,42 @@
+name: kiitcart_tasks
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^3.11.0
+  firebase_core: ^1.24.0
+  flutter_facebook_auth: ^4.4.1+1
+  google_sign_in: ^5.4.2
+  flutter_native_splash: ^2.2.9
+  flutter_launcher_icons: ^0.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
+
+flutter_native_splash:
+  image: "assets/launcher.png"
+  color: "#ffffff"
+  ios_content_mode: center
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+  remove_alpha_ios: true

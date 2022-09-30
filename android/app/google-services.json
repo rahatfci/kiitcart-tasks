@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245795334897",
+    "project_id": "kiitcart-tasks",
+    "storage_bucket": "kiitcart-tasks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245795334897:android:df041d7868d14601701750",
+        "android_client_info": {
+          "package_name": "com.example.kiitcart_tasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245795334897-ghm5btghaiqrkd418an6eoi01m8h79da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiitcart_tasks",
+            "certificate_hash": "bb8eee851feb326daf874b2863f242a6381b6581"
+          }
+        },
+        {
+          "client_id": "245795334897-f8njdu54ttlupqqj5s7sabf5pm94pp45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI3CMq5RqKAfTk6PcScVM-aqz6DByQgoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245795334897-f8njdu54ttlupqqj5s7sabf5pm94pp45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

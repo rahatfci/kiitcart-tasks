@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KiitCart Tasks</string>
+    <string name="facebook_app_id">639771314370802</string>
+    <string name="facebook_client_token">9a911394cd121d78755349c01121b317</string>
+    <string name="fb_login_protocol_scheme">fb639771314370802</string>
+</resources>
